@@ -1,0 +1,1 @@
+Learn some really important concepts that will take you closer to building real DApps — things like contract ownership, gas costs, code optimization, and security.
